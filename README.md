@@ -19,7 +19,7 @@ I used the information from the MASP collection on the Wikipedia page to subsequ
 
 This is the result of my scraper.
 
-4. [Analyzing the data](https://github.com/juditecypreste/zombie_songs/blob/main/tiktok_analysis.ipynb)
+4. [Analyzing the data](https://github.com/juditecypreste/where-woman-ai/blob/main/paintings_analysis.ipynb)
 
 In this notebook, I cleaned and analyzed the data using AI.
 
