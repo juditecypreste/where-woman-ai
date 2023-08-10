@@ -35,7 +35,16 @@ The text file I used to download all the images of paintings.
 
 8. [The data final](https://github.com/juditecypreste/where-woman-ai/blob/main/data_paintings.csv)
 
-   
+### EXTERNAL LINKS
+
+9. [AI](https://huggingface.co/openai/clip-vit-base-patch32)
+
+The model I use.
+
+10. [Wikipedia](https://pt.wikipedia.org/wiki/Lista_de_pinturas_do_Museu_de_Arte_de_S%C3%A3o_Paulo)
+
+The list of paintings in the collection.
+
 # New tools and skills
 It was the first time I used D3 and AI in a project and I realized how complex it can be. Although AI has been discussed and applied in different contexts in journalism and data analysis, the results analyzing the paintings of MASP, the most famous museum of Brasil, were not satisfactory, with a great uncertainty. 
 
